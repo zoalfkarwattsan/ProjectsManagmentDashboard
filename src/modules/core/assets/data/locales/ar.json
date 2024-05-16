@@ -1,0 +1,48 @@
+{
+  "gen": {
+    "lang": {
+      "en": " (الانكليزية)",
+      "fr": " (الفرنسية)",
+      "de": " (الألمانية)",
+      "ar": " (العربية)",
+      "tr": " (التركية)"
+    },
+    "actions": {
+      "actions": "الإجراءات",
+      "edit": "تعديل",
+      "save": "حفظ",
+      "add": "إضافة",
+      "delete": "حذف",
+      "send": "إرسال",
+      "cancel": "إلغاء",
+      "search": "بحث",
+      "reset": "إعادة تعيين",
+      "settings": "الإعدادات",
+      "logout": "تسجيل الخروج",
+      "select": "تحديد",
+      "submit" : "إرسال",
+      "approve": "قبول",
+      "reject": "رفض",
+      "choose1OrMore": "اختر 1 أو أكثر",
+      "new": "جديد",
+      "view": "عرض",
+      "upload": "تحميل"
+    },
+    "uppyError": "{v1} upload failed {v2}",
+    "loadingApp": "تحميل {app}",
+    "datatable": {
+      "show": "عرض",
+      "totalRowsInfo": "{from}-{to} من {total}"
+    },
+    "name": "الإسم",
+    "date": "التاريخ",
+    "user": "المستخدم",
+    "isEnabled": "فعال؟",
+    "gender": "الجنس",
+    "birthDate": "تاريخ الميلاد",
+    "genders": {
+      "male": "ذكر",
+      "female": "أنثى"
+    }
+  }
+}

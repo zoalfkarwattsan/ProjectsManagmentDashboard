@@ -1,0 +1,65 @@
+{
+  "user": {
+    "nav": {
+      "userManagement": "User Management",
+      "userList": "Users",
+      "userRole": "Roles",
+      "userPermissions": "Permissions",
+      "userSettings": "Settings"
+    },
+    "welcomeTo": "Welcome to {name}",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "avatar": "Avatar",
+    "email": "Email",
+    "mobile": "Mobile",
+    "password": "Password",
+    "rememberMe": "Remember Me",
+
+    "login": "Login",
+    "register": "Register",
+    "forgetPassword": "Forget Password?",
+    "newOnPlatform": "New on our platform?",
+    "createAccount": "Create an account",
+
+    "loginHelpText": "Please login-in to your account and start the adventure",
+    "registerHelpText": "Make your work easy and fun!",
+    "registerTitle": "Adventure starts here",
+    "privacyAndPolicy": "privacy policy & terms",
+    "agree": "I agree to",
+    "alreadyUser": "Already have an account?",
+    "dashboard": "Dashboard",
+    "resetPasswordInstructions": "Enter your email and we'll send you instructions to reset your password",
+    "backToLogin": "Back to login",
+    "resetPassword": "Reset Password",
+    "resetPasswordHelpText": "Your new password must be different from previously used passwords",
+    "currentPassword": "Current Password",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm Password",
+    "setNewPassword": "Set a new password",
+    "sendInviteRequest": "Send invite request",
+
+    "status": {
+      "status": "Status",
+      "active": "Active",
+      "invite": "Invite",
+      "disabled": "Disabled"
+    },
+
+    "accountSettings": {
+      "accountSettings": "Account Settings",
+      "basicInfo": "Basic Info",
+      "generalInfo": "General Info",
+      "changePassword": "Change Password"
+    },
+    "addNewUser": "Add a New User",
+    "newRole": "New role",
+    "defaultRoleTips": "The default role will be assigned dynamically to new users",
+    "roles": "Roles",
+    "permissions": "Permissions",
+    "validation": {
+      "invalid_birth_date": "Invalid birth date",
+      "password_match": "Passwords must match"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+/*================================================================================
+NOTE:
+------
+PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+.login-logo img{max-height: 28px;}
+.main-menu .navbar-header .navbar-brand .brand-logo img{max-width: 32px;}
+.main-menu.expanded .navbar-header .navbar-brand .brand-logo img{max-width: 20px;}
+
+[dir=ltr] .modal-header .close {
+  margin: -0.8rem -1.4rem -0.8rem auto !important;
+}

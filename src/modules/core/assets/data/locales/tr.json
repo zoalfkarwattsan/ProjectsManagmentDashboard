@@ -1,0 +1,47 @@
+{
+  "gen": {
+    "lang": {
+      "en": " (English)",
+      "fr": " (French)",
+      "de": " (Deutsch)",
+      "ar": " (Arabic)"
+    },
+    "actions": {
+      "actions": "Actions",
+      "edit": "Edit",
+      "save": "Save",
+      "add": "add",
+      "delete": "Delete",
+      "send": "Send",
+      "cancel": "Cancel",
+      "search": "Search",
+      "reset": "Reset",
+      "settings": "Settings",
+      "logout": "Logout",
+      "select": "select",
+      "submit" : "Submit",
+      "approve": "Approve",
+      "reject": "Reject",
+      "choose1OrMore": "Choose 1 or more",
+      "new": "New",
+      "view": "View",
+      "upload": "Upload"
+    },
+    "uppyError": "{v1} upload failed {v2}",
+    "loadingApp": "Loading {app}",
+    "datatable": {
+      "show": "Show",
+      "totalRowsInfo": "{from}-{to} Of {total}"
+    },
+    "name": "Name",
+    "date": "Date",
+    "user": "User",
+    "isEnabled": "Is Enabled?",
+    "gender": "Gender",
+    "birthDate": "Birth Date",
+    "genders": {
+      "male": "Male",
+      "female": "Female"
+    }
+  }
+}

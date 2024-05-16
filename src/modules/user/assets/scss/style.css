@@ -1,0 +1,37 @@
+.black{
+    background-color: #000000 !important;
+}
+
+.grey{
+    background-color: #9a9a9a !important;
+}
+
+.white{
+    background-color: #f8f8f8 !important;
+}
+
+.bg-light-white{
+    background-color: #f8f8f8 !important;
+    border: 1px solid #c2c2c2
+}
+
+.bg-light-white .avatar-content{
+}
+
+.bg-light-grey{
+    background-color: #9a9a9a !important;
+}
+
+.bg-light-black{
+    background-color: #000000 !important;
+}
+
+.validation-error{
+    border: 1px solid red;
+    border-radius: 4px;
+}
+
+.profile-img-none{
+    width: 8.92rem;
+    height: 8.92rem;
+}

@@ -1,0 +1,18 @@
+{
+  "en": {
+    "code": "en",
+    "name": "English",
+    "flag": "US"
+  },
+  "ar": {
+    "code": "ar",
+    "name": "العربية",
+    "flag": "SA"
+  },
+  "tr": {
+    "code": "tr",
+    "name": "Türkçe",
+    "flag": "tr"
+  }
+}
+
